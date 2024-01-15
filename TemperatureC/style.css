@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.converter {
+    background-color: #a478788d;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 12px;
+    margin-bottom: 5px;
+}
+
+button {
+    background-color: #3315f3;
+    color: #f7f6f6;
+    padding: 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #011786;
+}
+
+h1 {
+    font-family: 'Times New Roman';
+    color: rgb(20, 22, 55);
+}
+
+label,
+p {
+    font-family: Monotype Corsiva;
+    font-size: 25px;
+    font-weight: 600;
+}
